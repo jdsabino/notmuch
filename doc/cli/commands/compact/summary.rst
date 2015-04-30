@@ -1,0 +1,1 @@
+compact the notmuch database.
